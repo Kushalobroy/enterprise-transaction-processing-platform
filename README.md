@@ -4,6 +4,7 @@ A secure, scalable, and high-performance backend platform designed to process, v
 Built with a strong focus on **security, low latency, modular architecture, and observability**, following real-world enterprise backend practices.
 
 ---
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d985c6f7-d7fb-43d9-9018-6e8235c0488e" />
 
 ## 🚀 Key Features
 
